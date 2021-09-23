@@ -8,13 +8,9 @@ $ npm install
 ```
 $ npm run dev
 ```
-
-# build for production and launch server
-```
-$ npm run build
-$ npm run start
-```
 # Test 
 ```
 npm run test
 ```
+
+note: have node installed on your computer.
